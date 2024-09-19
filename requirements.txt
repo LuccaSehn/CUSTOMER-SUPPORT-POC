@@ -1,0 +1,8 @@
+langgraph 
+langchain_openai
+langchain-community 
+langchain-aws
+openai
+tavily-python 
+pandas
+ipython
